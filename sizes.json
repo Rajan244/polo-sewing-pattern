@@ -1,0 +1,70 @@
+{
+  "Women": {
+    "EU/US": {
+      "34": {"Bust": "30.5", "Waist": "24.5", "Hips": "34"},
+      "36": {"Bust": "32", "Waist": "26", "Hips": "35.5"},
+      "38": {"Bust": "34", "Waist": "28", "Hips": "37.5"},
+      "40": {"Bust": "36", "Waist": "30", "Hips": "39.5"},
+      "42": {"Bust": "38", "Waist": "32", "Hips": "41.5"},
+      "44": {"Bust": "40.5", "Waist": "34.5", "Hips": "44"},
+      "46": {"Bust": "43", "Waist": "37", "Hips": "46"},
+      "48": {"Bust": "45.5", "Waist": "39", "Hips": "48.5"},
+      "50": {"Bust": "48", "Waist": "41.5", "Hips": "51"}
+    },
+    "IRE/UK": {
+      "6": {"Bust": "30.5", "Waist": "24.5", "Hips": "34"},
+      "8": {"Bust": "32", "Waist": "26", "Hips": "35.5"},
+      "10": {"Bust": "34", "Waist": "28", "Hips": "37.5"},
+      "12": {"Bust": "36", "Waist": "30", "Hips": "39.5"},
+      "14": {"Bust": "38", "Waist": "32", "Hips": "41.5"},
+      "16": {"Bust": "40.5", "Waist": "34.5", "Hips": "44"},
+      "18": {"Bust": "43", "Waist": "37", "Hips": "46"},
+      "20": {"Bust": "45.5", "Waist": "39", "Hips": "48.5"},
+      "22": {"Bust": "48", "Waist": "41.5", "Hips": "51"}
+    }
+  },
+  "Men": {
+    "Size": {
+      "XS": {"Neck": "Up to 14", "Chest": "Up to 35"},
+      "S": {"Neck": "14.5-15", "Chest": "36-37"},
+      "M": {"Neck": "15.5-16", "Chest": "38-40"},
+      "L": {"Neck": "16.5-17", "Chest": "41-43"},
+      "XL": {"Neck": "17.5-18", "Chest": "44-46"},
+      "2XL": {"Neck": "18.5-19", "Chest": "47-49"},
+      "3XL": {"Neck": "19.5-20", "Chest": "50-52"},
+      "4XL": {"Neck": "20.5-21", "Chest": "53-55"}
+    }
+  },
+  "Kids": {
+    "Girls": {
+      "Age": {
+        "2 yrs": {"Height": "36.25", "Chest": "20.5", "Waist": "20"},
+        "3 yrs": {"Height": "38.5", "Chest": "21", "Waist": "20.5"},
+        "4 yrs": {"Height": "41", "Chest": "22", "Waist": "20.75"},
+        "5 yrs": {"Height": "43.25", "Chest": "23", "Waist": "21.5"},
+        "6 yrs": {"Height": "45.5", "Chest": "24", "Waist": "22"},
+        "7 yrs": {"Height": "48", "Chest": "24.75", "Waist": "22.5"},
+        "8 yrs": {"Height": "50.5", "Chest": "26", "Waist": "23"},
+        "9 yrs": {"Height": "52.75", "Chest": "27", "Waist": "23.5"},
+        "10 yrs": {"Height": "55", "Chest": "28.5", "Waist": "24"},
+        "11 yrs": {"Height": "57.5", "Chest": "29.5", "Waist": "24.5"},
+        "12 yrs": {"Height": "59.75", "Chest": "31", "Waist": "25"}
+      }
+    },
+    "Boys": {
+      "Age": {
+        "2 yrs": {"Height": "36.25", "Chest": "20.5", "Waist": "20"},
+        "3 yrs": {"Height": "38.5", "Chest": "21", "Waist": "20.5"},
+        "4 yrs": {"Height": "41", "Chest": "22", "Waist": "20.75"},
+        "5 yrs": {"Height": "43.25", "Chest": "23", "Waist": "21.5"},
+        "6 yrs": {"Height": "45.5", "Chest": "24", "Waist": "22"},
+        "7 yrs": {"Height": "48", "Chest": "24.75", "Waist": "22.5"},
+        "8 yrs": {"Height": "50.5", "Chest": "26", "Waist": "23"},
+        "9 yrs": {"Height": "52.75", "Chest": "27", "Waist": "23.5"},
+        "10 yrs": {"Height": "55", "Chest": "28.5", "Waist": "24"},
+        "11 yrs": {"Height": "57.5", "Chest": "29.5", "Waist": "24.5"},
+        "12 yrs": {"Height": "59.75", "Chest": "30.5", "Waist": "25"}
+      }
+    }
+  }
+}
